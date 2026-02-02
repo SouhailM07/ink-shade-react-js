@@ -74,7 +74,7 @@ export default function ProductPage() {
                 </div>
 
                 <div className="mt-4 text-3xl font-bold text-primary">
-                  {product.price} $
+                  {product.price} DZD
                 </div>
 
                 <div
